@@ -47,10 +47,7 @@ fitbit-fitness-tracker-analysis/
 ├── data/
 │   └── dailyActivity_merged.csv
 │
-├── images/
-│   └── tableau_dashboard.png
-│
-└── README.md
+└── README.md ```
 
 ## Limitation
 
@@ -59,4 +56,4 @@ The dataset represents a limited group of Fitbit users who consented to share th
 ## Conclusion 
 
 The analysis shows that users spent substantially more time in sedentary activity than in a higher intensity activities.
-Step counts also varied considerably dependind of the day of the week, while the relationsip between steps and calories burned suggests that greater activity is generally associated with higher calorie expenditure.
+Step counts also varied considerably depending of the day of the week, while the relationship between steps and calories burned suggests that greater activity is generally associated with higher calorie expenditure.
