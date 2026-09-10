@@ -47,7 +47,7 @@ fitbit-fitness-tracker-analysis/
 ├── data/
 │   └── dailyActivity_merged.csv
 │
-└── README.md ```
+└── README.md 
 **
 
 ## Limitation
