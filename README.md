@@ -52,11 +52,11 @@ fitbit-fitness-tracker-analysis/
 │
 └── README.md
 
-Limitation
+## Limitation
 
 The dataset represents a limited group of Fitbit users who consented to share their data. Therefore, the findings should not be generalized to all Fitbit users.
 
-Conclusion 
+## Conclusion 
 
 The analysis shows that users spent substantially more time in sedentary activity than in a higher intensity activities.
 Step counts also varied considerably dependind of the day of the week, while the relationsip between steps and calories burned suggests that greater activity is generally associated with higher calorie expenditure.
